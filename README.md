@@ -29,21 +29,23 @@ JavaScript dla kotów jest udostępniany na licencji [CC0 Licensed](https://crea
 
 <span class="right">![cat](images/yarnify.png)</span>
 
-Koty zawsze spadają na cztery łapy &mdash; nawet, gdy programują! Unlike [pawing over a glass of water](images/dealwithit.gif) on your laptop, _nothing_ in these tutorials will damage your computer in any way, even if you mistype a command or click the wrong button. Like cats, computer programmers make mistakes all time: misspelling things, forgetting quotes or brackets, and being forgetful of how basic functions (and yarn, lasers) work. Programmers care more about making it work _eventually_ rather than trying to make it work the very first time. The best way to learn is by making mistakes!
+Koty zawsze spadają na cztery łapy &mdash; nawet, gdy programują! W przeciwieństwie do możliwości [przewrócenia szklanki wody](images/dealwithit.gif) na twojego laptopa, _nic_ w niniejszym wprowadzeniu nie spowoduje: uszkodzenia twojego komputera, uszkodzeń ciała, urwanego ogonka czy przyciętych wąsów. Klikanie w nieodpowiednie przyciski również. Programiści, jak i koty, popełniają cały czas błędy: zdarzają się literówki, brakujące cudzysłowy lub nawiasy, czy pomroczność jasna, jak działają najprostsze funkcje (lub, cholera, lasery). Dobremu programiście zależy, aby _w końcu_ to zadziałało, aniżeli miałoby zadziałać za pierwszym razem. Najlepszym sposobem na naukę są błędy.!
 
-So don't be a scaredy-cat! The absolute worst thing that will happen is that you might have to refresh this page in your web browser if you get stuck. Don't worry though, this will happen very rarely.
+Nie bądź więc boj-kotem! Najgorszą rzeczą, która może się stać w trakcie wykonywania tych ćwiczeń to zawieszenie strony w przeglądarce i konieczność odświeżenia strony. Nie przejmuj się, to się zdarza, ale bardzo rzadko.
 
-## <a id="basics" href="#basics">#</a> The basics
+## <a id="basics" href="#basics">#</a> Konsola
 
-There is JavaScript running on this page right now.  Let's play around with it a little. For the sake of simplicity I'll assume you are using Google Chrome to read this page (if you aren't it's probably easier on both of us if you follow along with Chrome).
+Na tej stronie internetowej, gdzieś w tle właśnie działa JavaScript. Pobawmy się nim przez chwilę. Aby uprościć, założymy, że w tym momencie korzystasz z przeglądarki Google Chrome, Safari, jeśli jesteś z komputera Macintosh lub Vivaldi. Jeżeli nie korzystasz z żadnej z nich, będzie nam prościej wszystko wytłumaczyć, jeżeli skorzystasz z jednej z nich, więc otwórz sobie nową kartę, albo nowe okno i pobierz odpowiednią przeglądarkę.
 
-First, right click anywhere on the screen and hit **Inspect Element**, then click on the **Console** tab. You should see a thingy that looks like this:
+Jeżeli korzystasz z Safari, włącz teraz tak zwany tryb programisty, klikając w pasku menu na Safari > Preferencje. Przejdź na kartę Zaawansowane, a następnie wybierz opcję _Pokazuj menu Programowanie na pasku menu_.
+
+Kliknij gdziekolwiek na ekranie i wybierz opcję **Skontroluj element**, a następnie kliknij w zakładkę **Konsola**. Powinieneś zobaczyć takie rzeczy:
 
 ![console](images/console.gif)
 
-This is a console, otherwise known as a "command line" or "terminal". Basically it's a way to type one thing at a time into a computer and immediately get the computers answer back. They are super useful as a learning tool (I still use the console nearly every day that I'm coding).
+Oto konsola, znana również pod nazwami "wiersz poleceń" czy "terminal". Chodzi o to, że wpisujemy tutaj tylko jedną rzecz naraz, a komputer od razu odpowiada. Konsole są świetne jako pomoce naukowe (Korzystam z nich codziennie, gdy piszę kod programu).
 
-The console does some pretty cool stuff. Here I have started to type something and the console is helping me out by giving me a list of all the possible things I could continue to type! Another thing you could do is type `1 + 1` into the console and then hit the `Enter` key and watch what happens.
+Konsola potrafi robić fajne rzeczy. Here I have started to type something and the console is helping me out by giving me a list of all the possible things I could continue to type! Another thing you could do is type `1 + 1` into the console and then hit the `Enter` key and watch what happens.
 
 Using the console is a very important part of learning JavaScript. If you don't know if something works or what the command is for something, go to the console and figure it out! Here's an example:
 
