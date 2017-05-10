@@ -45,9 +45,9 @@ Kliknij gdziekolwiek na ekranie i wybierz opcję **Skontroluj element**, a nast�
 
 Oto konsola, znana również pod nazwami "wiersz poleceń" czy "terminal". Chodzi o to, że wpisujemy tutaj tylko jedną rzecz naraz, a komputer od razu odpowiada. Konsole są świetne jako pomoce naukowe (Korzystam z nich codziennie, gdy piszę kod programu).
 
-Konsola potrafi robić fajne rzeczy. Here I have started to type something and the console is helping me out by giving me a list of all the possible things I could continue to type! Another thing you could do is type `1 + 1` into the console and then hit the `Enter` key and watch what happens.
+Konsola potrafi robić fajne rzeczy. Ona potrafi nawet podpowiedzieć Ci, co masz wpisać! Spróbuj wpisać `1 + 1` do okna konsoli i naciśnij `Enter` i zobacz co się dzieje.
 
-Using the console is a very important part of learning JavaScript. If you don't know if something works or what the command is for something, go to the console and figure it out! Here's an example:
+Korzystanie z konsoli jest bardzo ważne w trakcie nauki JavaScript. Jeżeli nie wiesz, czy coś działa, czy to tak ma być napisane, przejdź do konsoli i przekonaj się sam! Poniżej przykład:
 
 ### <a id="strings" href="#strings">#</a> Strings
 
