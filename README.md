@@ -4,11 +4,11 @@
 
 JavaScript to język programowania, czyli, innymi słowy język, przez który komputer jest instruowany jak robić rzeczy. Podobnie, jak my kontrolujemy ludzi miauczeniem i prychaniem, człowiek w ten sposób kontroluje komputery za pomocą zdań, które wpisuje w języku programowania. Wszystkie nowoczesne przeglądarki rozumieją JavaScript i możemy to wykorzystać to robienia szalonych rzeczy!
 
-JavaScript zaczynał jako język skryptowy, który miał sprawić, że przeglądarki i strony internetowe staną się bardziej interaktywne. Dziś jednak, działa on w innych miejscach niż tylko przeglądarka &mdash, działa również na serwerach sieci web, telefonach, a nawet można zaprogramować nim robota. Ta strona nauczy Cię podstaw, żebyś mógł zaraz* działać w tym języku.
+JavaScript zaczynał jako język skryptowy, który miał sprawić, że przeglądarki i strony internetowe staną się bardziej interaktywne. Dziś jednak, działa on w innych miejscach niż tylko przeglądarka &mdash; działa również na serwerach sieci web, telefonach, a nawet można zaprogramować nim robota. Ta strona nauczy Cię podstaw, żebyś mógł zaraz* działać w tym języku.
 
 \* *zaraz - może za chwilę niż raz. Może za godzinę. Albo trzy. Ale jeśli jednak jesteś kotem, to pewnie właśnie wygrzewasz się w słońcu*
 
-JavaScript dla kotów jest udostępniany na licencji CC0[CC0 Licensed](https://creativecommons.org/publicdomain/zero/1.0/) - podobnie jak oryginał - JavaScript for Cats.
+JavaScript dla kotów jest udostępniany na licencji [CC0 Licensed](https://creativecommons.org/publicdomain/zero/1.0/) - podobnie jak oryginał - JavaScript for Cats.
 
 ## Spis treści
 
@@ -25,11 +25,11 @@ JavaScript dla kotów jest udostępniany na licencji CC0[CC0 Licensed](https://c
 - [Wywołania zwrotne](#callbacks)
 - [Polecana lektura](#recommended-reading)
 
-## Don't be a scaredy-cat
+## Nie bądź boj-kotem
 
 <span class="right">![cat](images/yarnify.png)</span>
 
-You will always land on your feet &mdash; even when programming! Unlike [pawing over a glass of water](images/dealwithit.gif) on your laptop, _nothing_ in these tutorials will damage your computer in any way, even if you mistype a command or click the wrong button. Like cats, computer programmers make mistakes all time: misspelling things, forgetting quotes or brackets, and being forgetful of how basic functions (and yarn, lasers) work. Programmers care more about making it work _eventually_ rather than trying to make it work the very first time. The best way to learn is by making mistakes!
+Koty zawsze spadają na cztery łapy &mdash; nawet, gdy programują! Unlike [pawing over a glass of water](images/dealwithit.gif) on your laptop, _nothing_ in these tutorials will damage your computer in any way, even if you mistype a command or click the wrong button. Like cats, computer programmers make mistakes all time: misspelling things, forgetting quotes or brackets, and being forgetful of how basic functions (and yarn, lasers) work. Programmers care more about making it work _eventually_ rather than trying to make it work the very first time. The best way to learn is by making mistakes!
 
 So don't be a scaredy-cat! The absolute worst thing that will happen is that you might have to refresh this page in your web browser if you get stuck. Don't worry though, this will happen very rarely.
 
