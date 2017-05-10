@@ -1,29 +1,29 @@
-<span class="bigTitle">JavaScript For Cats</span>
-## An introduction for new programmers <span class="right">![cat](images/substack-cats.png)</span>
-### *So easy your human companion could do it too!*
+<span class="bigTitle">JavaScript dla kotów - polskie tłumaczenie podręcznika JavaScript for Cats</span>
+## Wprowadzenie dla nowych programistów <span class="right">![cat](images/substack-cats.png)</span>
+### *Tak łatwe, że ludzie również sobie poradzą.*
 
-JavaScript is a programming language or, in other words, a means by which a computer is instructed to do things. Just the same as one controls humans with hisses and meows, one controls computers with statements written in a programming language. All web browsers understand JavaScript and you can take advantage of that to make web pages do crazy things!
+JavaScript to język programowania, czyli, innymi słowy język, przez który komputer jest instruowany jak robić rzeczy. Podobnie, jak my kontrolujemy ludzi miauczeniem i prychaniem, człowiek w ten sposób kontroluje komputery za pomocą zdań, które wpisuje w języku programowania. Wszystkie nowoczesne przeglądarki rozumieją JavaScript i możemy to wykorzystać to robienia szalonych rzeczy!
 
-JavaScript started as a way to make web pages more interactive. Nowadays JavaScript runs in more places than just web browsers &mdash; it runs on web servers, phones and even robots! This page will teach you some JavaScript basics so that you can get up and running in no time*.
+JavaScript zaczynał jako język skryptowy, który miał sprawić, że przeglądarki i strony internetowe staną się bardziej interaktywne. Dziś jednak, działa on w innych miejscach niż tylko przeglądarka &mdash, działa również na serwerach sieci web, telefonach, a nawet można zaprogramować nim robota. Ta strona nauczy Cię podstaw, żebyś mógł zaraz* działać w tym języku.
 
-\* *Actual time: more than none. Probably an hour or two. Also since you are a cat you are less likely to run and more likely to lay around in the sun*
+\* *zaraz - może za chwilę niż raz. Może za godzinę. Albo trzy. Ale jeśli jednak jesteś kotem, to pewnie właśnie wygrzewasz się w słońcu*
 
-JavaScript for Cats is [CC0 Licensed](https://creativecommons.org/publicdomain/zero/1.0/)
+JavaScript dla kotów jest udostępniany na licencji CC0[CC0 Licensed](https://creativecommons.org/publicdomain/zero/1.0/) - podobnie jak oryginał - JavaScript for Cats.
 
-## Table of contents
+## Spis treści
 
-- [The console](#basics)
-- [Strings](#strings)
-- [Values and variables](#values)
-- [Using functions](#functions)
-- [Built in JS functions](#standard-library)
-- [Download new JS functions](#third-party-javascript)
-- [Writing new functions](#writing-functions)
-- [Loops](#loops)
-- [Arrays](#arrays)
-- [Objects](#objects)
-- [Callbacks](#callbacks)
-- [Recommended reading](#recommended-reading)
+- [Konsola](#basics)
+- [Ciągi znaków](#strings)
+- [Wartości i zmienne](#values)
+- [Korzystanie z funkcji](#functions)
+- [Funkcje wbudowane w JavaScript](#standard-library)
+- [Pobieranie nowych funkcji do JavaScript](#third-party-javascript)
+- [Pisanie własnych funkcji](#writing-functions)
+- [Pętle](#loops)
+- [Tablice](#arrays)
+- [Obiekty](#objects)
+- [Wywołania zwrotne](#callbacks)
+- [Polecana lektura](#recommended-reading)
 
 ## Don't be a scaredy-cat
 
